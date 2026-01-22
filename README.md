@@ -10,3 +10,10 @@ End-to-end data analysis project including data cleaning, preprocessing, explora
 2. Clean and standardize raw datasets
 3. Perform Exploratory Data Analysis (EDA)
 4. Generate insights using statistical analysis and visualizations
+
+# 🛠️ Tools & Technologies Used
+1. Python
+2. Pandas – data manipulation and cleaning
+3. NumPy – numerical operations
+4. Matplotlib & Seaborn – data visualization
+5. Jupyter Notebook – interactive analysis
