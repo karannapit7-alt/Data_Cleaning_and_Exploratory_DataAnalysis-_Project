@@ -11,12 +11,11 @@ End-to-end data analysis project including data cleaning, preprocessing, explora
 3. Perform Exploratory Data Analysis (EDA)
 4. Generate insights using statistical analysis and visualizations
 
-# 🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 1. Python
 2. Pandas – data manipulation and cleaning
-3. NumPy – numerical operations
-4. Matplotlib & Seaborn – data visualization
-5. Jupyter Notebook – interactive analysis
+3. Matplotlib & Seaborn – data visualization
+4. Jupyter Notebook – interactive analysis
 
 # Key Tasks Performed
 1. Identified and handled missing values
@@ -31,3 +30,7 @@ This project was developed as part of my Data Science Internship at Incode Visio
 # Conclusion
 This project strengthened my understanding of data preprocessing and EDA, which are crucial steps in any data science workflow.
 It demonstrates my ability to work with real datasets and apply analytical thinking to solve data-related problems.
+
+
+# Author: Karan Thakur
+# Domain: Data Analysis / Data Science
