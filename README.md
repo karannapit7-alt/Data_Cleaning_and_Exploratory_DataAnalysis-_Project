@@ -12,10 +12,10 @@ End-to-end data analysis project including data cleaning, preprocessing, explora
 4. Generate insights using statistical analysis and visualizations.
 
 # Tools & Technologies Used
-1. Python
-2. Pandas – data manipulation and cleaning
-3. Matplotlib & Seaborn – data visualization
-4. Jupyter Notebook – interactive analysis
+1. Python.
+2. Pandas – data manipulation and cleaning.
+3. Matplotlib & Seaborn – data visualization.
+4. Jupyter Notebook – interactive analysis.
 
 # Key Tasks Performed
 1. Identified and handled missing values
