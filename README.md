@@ -22,7 +22,7 @@ End-to-end data analysis project including data cleaning, preprocessing, explora
 2. Removed duplicate records to maintain data integrity.
 3. Cleaned and formatted column names.
 4. Performed descriptive statistical analysis.
-5. Visualized data distributions and relationships
+5. Visualized data distributions and relationships.
 
 # Internship Context
 This project was developed as part of my Data Science Internship at Incode Vision, focusing on real-world data handling and analysis techniques.
