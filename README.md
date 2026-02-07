@@ -20,8 +20,8 @@ End-to-end data analysis project including data cleaning, preprocessing, explora
 # Key Tasks Performed
 1. Identified and handled missing values.
 2. Removed duplicate records to maintain data integrity.
-3. Cleaned and formatted column names
-4. Performed descriptive statistical analysis
+3. Cleaned and formatted column names.
+4. Performed descriptive statistical analysis.
 5. Visualized data distributions and relationships
 
 # Internship Context
