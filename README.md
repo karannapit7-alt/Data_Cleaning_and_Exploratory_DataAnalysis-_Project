@@ -1,5 +1,5 @@
 # Data_Cleaning_and_Exploratory_Data_Analysis_Project.
-End-to-end data analysis project including data cleaning, preprocessing, exploratory data analysis (EDA) and insights using Python, Pandas and Matplotlib. Developed during Incode Vision Data Science Internship.
+ End-to-end data analysis project including data cleaning, preprocessing, exploratory data analysis (EDA) and insights using Python, Pandas and Matplotlib. Developed during Incode Vision Data Science Internship.
 
 # 📌 Project Overview
 1. This is an end-to-end Data Analysis project focused on data cleaning, preprocessing, and exploratory data analysis (EDA) using Python.
@@ -17,17 +17,17 @@ End-to-end data analysis project including data cleaning, preprocessing, explora
 3. Matplotlib & Seaborn – data visualization.
 4. Jupyter Notebook – interactive analysis.
 
-# Key Tasks Performed
+# Key Tasks Performed.
 1. Identified and handled missing values.
 2. Removed duplicate records to maintain data integrity.
 3. Cleaned and formatted column names.
 4. Performed descriptive statistical analysis.
 5. Visualized data distributions and relationships.
 
-# Internship Context
+# Internship Context.
 This project was developed as part of my Data Science Internship at Incode Vision, focusing on real-world data handling and analysis techniques.
 
-# Conclusion
+# Conclusion.
 This project strengthened my understanding of data preprocessing and EDA, which are crucial steps in any data science workflow.
 It demonstrates my ability to work with real datasets and apply analytical thinking to solve data-related problems.
 
