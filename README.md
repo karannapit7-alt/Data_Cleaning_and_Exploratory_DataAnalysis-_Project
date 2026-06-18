@@ -5,13 +5,13 @@
 1. This is an end-to-end Data Analysis project focused on data cleaning, preprocessing, and exploratory data analysis (EDA) using Python.
 2. The objective of this project is to transform raw, unclean data into a structured format and extract meaningful insights through analysis and visualization.
 
-# Key Objectives
+# Key Objectives.
 1. Handle missing values and duplicate records.
 2. Clean and standardize raw datasets.
 3. Perform Exploratory Data Analysis (EDA).
 4. Generate insights using statistical analysis and visualizations.
 
-# Tools & Technologies Used
+# Tools & Technologies Used.
 1. Python.
 2. Pandas – data manipulation and cleaning.
 3. Matplotlib & Seaborn – data visualization.
