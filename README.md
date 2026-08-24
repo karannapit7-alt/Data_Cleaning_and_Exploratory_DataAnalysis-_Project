@@ -32,5 +32,5 @@ This project strengthened my understanding of data preprocessing and EDA, which 
 It demonstrates my ability to work with real datasets and apply analytical thinking to solve data-related problems.
 
 
-# Author: Karan Thakur.
-# Domain: Data Analysis / Data Science.
+# Author:- Karan Thakur.
+# Domain:- Data Analysis / Data Science.
